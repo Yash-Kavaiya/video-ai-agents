@@ -1,0 +1,4 @@
+# requirements.txt
+# Add your backend dependencies here, e.g.:
+fastapi
+uvicorn
